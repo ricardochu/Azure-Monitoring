@@ -1,6 +1,6 @@
 az group create \
 --name RG-20-Monitoring \
---location westeurope
+--location eastus2
 
 az network vnet create \
   --resource-group RG-20-Monitoring \
